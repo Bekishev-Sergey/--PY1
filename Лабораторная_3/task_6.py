@@ -10,5 +10,4 @@ for i, value in enumerate(list_numbers):
         max_index = i
 list_numbers[max_index] = last_num
 list_numbers[-1] = max_value
-
 print(list_numbers)
